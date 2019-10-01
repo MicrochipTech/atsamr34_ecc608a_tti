@@ -1,7 +1,16 @@
 # ATSAMR34_ECC608A_TTI
-> Develop with the SAM R34 LoRa SiP and Microchip LoRaWAN stack on TTI join servers
+> “Wireless Made Easy!" - Develop with the SAM R34 LoRa SiP and Microchip LoRaWAN stack on TTI join server
 
-This guide will direct you through the process of getting started with developing a secure LoRa end device product using Microchip Technology's Pre-provisioned ATECC608A secure element along with TTI Join server.
+<p>
+<a href="https://www.microchip.com/design-centers/security-ics/trust-platform/trust-go/trust-go-lora-secure-authentication-with-join-servers" target="_blank">
+<img border="0" alt="Microchip_logo" src="Doc/Microchip_logo.png" width="150">
+
+<a href="https://www.thethingsindustries.com" target="_blank">
+<img border="0" alt="TTI_logo" src="Doc/TTI_logo.png" width="200">
+</p>
+</a>
+
+**This guide will direct you through the process of getting started with developing a secure LoRa end device product using Microchip Technology's Pre-provisioned ATECC608A secure element along with TTI Join server.**
 </br>
 The Things Industries created a product and a service that delivers secure join, secure communication and secure key provisioning.
 
