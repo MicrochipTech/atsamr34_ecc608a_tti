@@ -6,9 +6,16 @@
 <img border="0" alt="Microchip_logo" src="Doc/Microchip_logo.png" width="150">
 
 <a href="https://www.thethingsindustries.com" target="_blank">
-<img border="0" alt="TTI_logo" src="Doc/TTI_logo.png" width="200">
+<img border="0" alt="TTI_logo" src="Doc/TTI_logo.png" width="150">
+
+<a href="https://youtu.be/eXXl485fbBE" target="_blank">
+<img src="https://img.youtube.com/vi/eXXl485fbBE/0.jpg" 
+alt="Secure Authentication for LoRa with the ATECC608A and The Things Industries (TTI) Join Server" width="240" border="10" /></a>
+
 </p>
 </a>
+
+
 
 **This guide will direct you through the process of getting started with developing a secure LoRa end device product using Microchip Technology's Pre-provisioned ATECC608A secure element along with TTI Join server.**
 </br>
