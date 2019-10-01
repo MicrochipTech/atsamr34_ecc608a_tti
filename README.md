@@ -4,13 +4,15 @@
 <p>
 <a href="https://www.microchip.com/design-centers/security-ics/trust-platform/trust-go/trust-go-lora-secure-authentication-with-join-servers" target="_blank">
 <img border="0" alt="Microchip_logo" src="Doc/Microchip_logo.png" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 <a href="https://www.thethingsindustries.com" target="_blank">
 <img border="0" alt="TTI_logo" src="Doc/TTI_logo.png" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 <a href="https://youtu.be/eXXl485fbBE" target="_blank">
 <img src="https://img.youtube.com/vi/eXXl485fbBE/0.jpg" 
-alt="Secure Authentication for LoRa with the ATECC608A and The Things Industries (TTI) Join Server" width="240" border="10" /></a>
+alt="Secure Authentication for LoRa with the ATECC608A and The Things Industries (TTI) Join Server" width="240"></a>
 
 </p>
 </a>
