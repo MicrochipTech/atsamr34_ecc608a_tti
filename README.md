@@ -77,7 +77,7 @@ Until the next Atmel Studio IDE release, you have to manually install the Device
 ## Hardware setup <a name="step3"></a>
 
 Configure the DIP switch of the CryptoAuthenticationUDFN Socket kit for I2C communication with the host microcontroller.
-**1, 3 and 7 must be placed to ON position**
+**1, 3 and 6 must be placed to ON position**
 </br>
 ![](Doc/DIP_Switch.png)
 </br>
