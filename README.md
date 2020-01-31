@@ -27,7 +27,7 @@ The Things Industries created a product and a service that delivers secure join,
 2. [Software](#step2)
 3. [Hardware setup](#step3)
 4. [Sample Application Code](#step4)
-5. [TTI Activation](#step5)
+5. [Claiming and Activating the device](#step5)
 6. [Running the demo](#step6)
 
 ## Material required <a name="step1"></a>
@@ -145,13 +145,18 @@ In order to pre-commission a device using ATECC608A secure element in TTI Activa
 - JoinEUI: LoRaWAN JS 64-bit unique identifier of the Join Server on which AppKey of the device is stored
 
 
-## TTI Join Server Activation <a name="step5"></a>
+## Claiming and Activating the device <a name="step5"></a>
 
-Activating the device within TTI is the next step.</br>
+TTI and Microchip developed a security solution for LoRaWAN that enables secure key provisioning and secure cryptographic operations using secure elements.
+</br>
+- <a href="https://www.thethingsindustries.com/technology/security-solution" target="_blank">End-to-end LoRaWAN Security solution</a></br>
 
-Go here: <a href="https://www.thethingsindustries.com/technology/security-solution" target="_blank">https://www.thethingsindustries.com/technology/security-solution</a>
+Claiming and Activating the device within TTI Servers are the next steps described in the guides below:</br>
+- <a href="https://enterprise.thethingsstack.io/v3.3.2/guides/claim-atecc608a/" target="_blank">Claim ATECC608A Secure Elements</a></br>
+- <a href="https://enterprise.thethingsstack.io/v3.3.2/guides/cloud-hosted/tti-join-server/activate-devices-cloud-hosted/" target="_blank">Activate devices on the Things Industries Cloud Hosted</a></br>
 
-And follow the steps to get started with claiming your devices.
+You can also refer to the Microchip Workshop which was provided at The Things Conference 2020.</br>
+<a href="https://github.com/MicrochipTech/secure_lorawan_with_tti" target="_blank">“Wireless Made Fun!" - Secure Authentication with SAMR34 & ATECC608A and The Things Industries’s Join Server</a></br>
 
 
 ## Running the demo <a name="step6"></a>
