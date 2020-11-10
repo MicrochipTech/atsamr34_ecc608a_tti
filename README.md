@@ -52,15 +52,15 @@ Purchase a LoRa(r) Gateway from <a href="https://www.thethingsindustries.com/tec
 
 ## Software <a name="step2"></a>
 
-- Download and install Atmel Studio 7.0 IDE. </br>
-https://www.microchip.com/mplab/avr-support/atmel-studio-7
+- Download and install [Atmel Studio 7.0 IDE](https://www.microchip.com/mplab/avr-support/atmel-studio-7). </br>
+
 
 - Open Atmel Studio 7.0 IDE. </br>
 - Then, you need Advanced Software Framework (ASFv3) v3.47.0 release or upper release. </br>
 Install ASFv3 as an extension to Atmel Studio from the menu: Tools -> Extensions and Updates …
 - Once the installation is complete, you must restart Atmel Studio. </br>
-- Download and install a serial terminal program like Tera Term. </br>
-https://osdn.net/projects/ttssh2/releases/
+- Download and install a serial terminal program like [Tera Term](https://osdn.net/projects/ttssh2/releases/). </br>
+
 
 Note: ASFv3 is an MCU software library providing a large collection of embedded software for AVR® and SAM flash MCUs and Wireless devices. ASFv3 is configured by the ASF Wizard in Atmel Studio 7.0 (installed as an extension to Studio). ASFv3 is also available as a standalone (.zip) with the same content as Studio extension (https://www.microchip.com/mplab/avr-support/advanced-software-framework).
 
@@ -152,8 +152,8 @@ TTI and Microchip developed a security solution for LoRaWAN that enables secure 
 - <a href="https://www.thethingsindustries.com/technology/security-solution" target="_blank">End-to-end LoRaWAN Security solution</a></br>
 
 Claiming and Activating the device within TTI Servers are the next steps described in the guides below:</br>
-- <a href="https://enterprise.thethingsstack.io/v3.3.2/guides/claim-atecc608a/" target="_blank">Claim ATECC608A Secure Elements</a></br>
-- <a href="https://enterprise.thethingsstack.io/v3.3.2/guides/cloud-hosted/tti-join-server/activate-devices-cloud-hosted/" target="_blank">Activate devices on the Things Industries Cloud Hosted</a></br>
+- <a href="https://thethingsstack.io/devices/claim-atecc608a/" target="_blank">Claim ATECC608A Secure Elements</a></br>
+- <a href="https://thethingsstack.io/getting-started/cloud-hosted/tti-join-server/activate-devices-cloud-hosted/" target="_blank">Activate devices on the Things Industries Cloud Hosted</a></br>
 
 You can also refer to the Microchip Workshop which was provided at The Things Conference 2020.</br>
 <a href="https://github.com/MicrochipTech/secure_lorawan_with_tti" target="_blank">“Wireless Made Fun!" - Secure Authentication with SAMR34 & ATECC608A and The Things Industries’s Join Server</a></br>
