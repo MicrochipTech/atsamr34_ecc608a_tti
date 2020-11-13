@@ -1,5 +1,5 @@
 # ATSAMR34_ECC608A_TTI
-> “Wireless Made Easy!" - Develop with the SAM R34 LoRa SiP and Microchip LoRaWAN stack on TTI join server
+> “Wireless Made Easy!" - Develop with the SAM R34 LoRa SiP and WLR089U0 Module with Microchip LoRaWAN stack on TTI join server
 
 <p>
 <a href="https://www.microchip.com/design-centers/security-ics/trust-platform/trust-go/trust-go-lora-secure-authentication-with-join-servers" target="_blank">
@@ -44,6 +44,11 @@ Purchase the <a href="https://www.microchip.com/Developmenttools/ProductDetails/
 ![](Doc/ATSAMR34Xpro.png)
 </br>
 
+Purchase the <a href="https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/EV23M25A" target="_blank">WLR089U0 Xplained Pro Evaluation Kit</a>
+</br>
+![](Doc/WLR089U0Xpro.png)
+</br>
+
 Purchase a LoRa(r) Gateway from <a href="https://www.thethingsindustries.com/technology/hardware#gateway" target="_blank">The Things Industries</a>
 </br>
 ![](Doc/TTI_Hardware.png)
@@ -56,7 +61,7 @@ Purchase a LoRa(r) Gateway from <a href="https://www.thethingsindustries.com/tec
 
 
 - Open Atmel Studio 7.0 IDE. </br>
-- Then, you need Advanced Software Framework (ASFv3) v3.47.0 release or upper release. </br>
+- Then, you need Advanced Software Framework (ASFv3) v3.49.0 release or upper release. </br>
 Install ASFv3 as an extension to Atmel Studio from the menu: Tools -> Extensions and Updates …
 - Once the installation is complete, you must restart Atmel Studio. </br>
 - Download and install a serial terminal program like [Tera Term](https://osdn.net/projects/ttssh2/releases/). </br>
@@ -113,6 +118,7 @@ The USB ports powers the board and enables the user to communicate with the kits
 </br>
 ![](Doc/FullSetup.png)
 
+> Same setup is valid for WLR089U0 Xplained Pro as well
 
 - Wait for USB driver installation and COM ports mounting. </br>
 - Launch Tera Term program and configure the serial ports mounted with: **115200 bps, 8/N/1**
